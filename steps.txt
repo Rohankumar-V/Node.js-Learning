@@ -1,0 +1,9 @@
+1.npm init -> Create a node project
+2.Install express
+3.Add configuration to run and setup module in package.json
+4.Setup app using express module and create a new server
+5.Connect to mongodb
+6.Create required schema/models
+7.Create required endpoints/api's and use the models to store data in database
+8.Use Body parser package inorder to use req.body method
+9.Send the request from postman
